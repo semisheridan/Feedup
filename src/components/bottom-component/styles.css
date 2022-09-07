@@ -1,0 +1,158 @@
+.icons {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 60px;
+    justify-content: space-evenly;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.i1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.i2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.i3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.i4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.par1 {
+    color: #112E4A;
+}
+
+.par2 {
+    color: #007F99;
+}
+
+.par3 {}
+
+.why {
+    background: #57e48f;
+    border-radius: 5px;
+    padding: 10px;
+    position: absolute;
+}
+
+.contain {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 90%;
+    height: 600px;
+}
+
+.middle {
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.pi {
+    width: 50%;
+}
+
+.par1 {
+    font-size: 50px;
+    color: #020d2c;
+    font-weight: bold;
+}
+
+.par2 {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.par3 {
+    font-size: 20px;
+}
+
+.why {
+    font-size: 20px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.pi {
+    margin-left: 230px;
+}
+
+.cont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 90%;
+    height: 600px;
+    margin-top: 1px;
+}
+
+.down {
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.im {
+    width: 50%;
+    margin-right: 230px;
+}
+
+.pa1 {
+    font-size: 50px;
+    color: #020d2c;
+    font-weight: bold;
+}
+
+.pa2 {
+    font-size: 25px;
+    margin-top: 10px;
+    color: #007F99;
+}
+
+.pa3 {
+    font-size: 20px;
+}
+
+.explo {
+    font-size: 20px;
+    background-color: #007F99;
+    color: white;
+    border-radius: 20px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 10px;
+    position: absolute;
+}
+
+.las {
+    align-self: flex-start;
+    margin-left: 5%;
+}
+
+.pa4 {
+    font-weight: bold;
+    color: #112E4A;
+    font-size: 200%;
+}
