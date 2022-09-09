@@ -6,6 +6,7 @@ import icon3 from '../bottom-component/arcticons_blogger.png';
 import icon4 from '../bottom-component/arcticons_office-reader.png';
 import ill from '../bottom-component/illustration 2 1.png';
 import mall from '../bottom-component/illustration 3 2.png';
+import hall from '../bottom-component/Group 352 1.png';
 function Landingpage() {
     return (
         <div className='container'>
@@ -58,6 +59,19 @@ function Landingpage() {
             </div>
             <div className='las'>
                 <p className='pa4'>Our Featured Articles</p>
+            </div>
+            <div className='con'>
+                <div className='ima'>
+                    <img src={hall} alt="" />
+                </div>
+                <div className='base'>
+                    <p className='p1'>Access To Our Dashboard</p>
+                    <p className='p2'>Integer Nibh Eget Pellentesque Urna Proin.<br />
+                        Ultricies Ut Aliquam Sogittis Elementum Dui.<br />
+                        Pretium Consectetur Vestibulum Elementum<br />
+                        Felis.Cursus Eleilfend Et,Et Vitae..</p>
+                    <button className='log'>Log In</button>
+                </div>
             </div>
         </div>
 

@@ -156,3 +156,35 @@
     color: #112E4A;
     font-size: 200%;
 }
+
+.base {
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.ima {
+    width: 50%;
+    margin-right: 230px;
+}
+
+.p1 {
+    font-size: 50px;
+    color: #020d2c;
+    font-weight: bold;
+}
+
+.p2 {
+    font-size: 20px;
+}
+
+.log {
+    font-size: 20px;
+    background-color: #05d644;
+    color: white;
+    border-radius: 20px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 20px;
+    position: absolute;
+}
